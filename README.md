@@ -72,3 +72,11 @@ Visualization Purpose: The script serves as an educational tool to visualize com
 https://github.com/DeepDynaSim/LorentzTransformations/assets/35817872/6db54596-7546-4b4f-9227-a2992b732396
 
 https://github.com/DeepDynaSim/LorentzTransformations/assets/35817872/1d032224-5a52-4fb7-9525-28f36d1f2bd6
+
+Detailed Video Explanation Available
+
+For those who prefer a more interactive and visual explanation of this MATLAB script and its underlying concepts, I've created a comprehensive video walkthrough. In this video, I delve into each segment of the code, explaining the parameters, the logic behind the animation loop, and how the video recording is set up. Additionally, I discuss the physical principles being simulated and offer insights into potential customizations and extensions of the script.
+
+This video is part of a series on my YouTube channel dedicated to exploring scientific computing and visualization techniques. Whether you're a student, educator, or enthusiast in the field of physics or computer science, you'll find valuable insights and tips to enhance your understanding and skills.
+
+🎥 Watch the detailed explanation on my YouTube channel: [https://www.youtube.com/watch?v=RY3lBg05kUQ]  
